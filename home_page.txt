@@ -1,3 +1,7 @@
 Welcome to Miami!
 
 Welcome to Metis!
+
+Nav:
+Home >
+Login >

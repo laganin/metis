@@ -5,3 +5,4 @@ Welcome to Metis!
 Nav:
 Home >
 Login >
+Register>
